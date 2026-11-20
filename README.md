@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Featured Project
-* ⚡ **[ImmichPulse](https://github.com)** — Ultra-lightweight (~3.8MB) Terminal UI (TUI) dashboard built in Go for self-hosted Immich servers.
+* ⚡ **[ImmichPulse](https://github.com/merobiju/immich-pulse)** — Ultra-lightweight (~3.8MB) Terminal UI (TUI) dashboard built in Go for self-hosted Immich servers.
 
 ---
 
