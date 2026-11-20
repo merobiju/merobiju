@@ -21,7 +21,7 @@ I engineer and maintain a sovereign, private cloud ecosystem from scratch, ensur
 
   <!-- 1. Hardware, OS & Compute -->
   <h4>🖥️ Hardware, OS & Compute</h4>
-  <a href="https://www.amd.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-webp@latest/light/amdradeoncloud-color.webp" alt="AMD" height="45" title="AMD Ryzen" /></a>
+  <a href="https://en.wikipedia.org/wiki/AMD" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-webp@latest/light/amdradeoncloud-color.webp" alt="AMD" height="45" title="AMD Ryzen" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.nvidia.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/webp/nvidia.webp" alt="NVIDIA" height="45" title="NVIDIA" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
