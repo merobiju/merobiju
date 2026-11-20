@@ -1,6 +1,6 @@
 <div align="center">
 
-# Namaste 🙏 I'm Bijaya Pokhrel 🇳🇵
+# Namaste 🙏 I'm Bijaya Pokhrel <img src="https://://flagcdn.com" alt="Nepal" width="22" height="16">
 ### *"डिजिटल साधक — A Real-Life Tech Journey From Nepal"*
 
 **Self-Hosted Cloud Architect • Linux & Docker Tinkerer • Go Developer • Nepali Wikipedia Contributor**
